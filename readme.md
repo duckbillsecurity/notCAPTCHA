@@ -1,10 +1,11 @@
 # notCAPTCHA
 
-A Python script to generate a notCAPTCHA HTML file with embedded SVG image and obfuscated URL.
+A Python script to generate a fake CAPTCHA HTML file with embedded SVG image and obfuscated URL.
 
 ## Description
 
-`notCAPTCHA` is a Python script that generates an HTML file with a simple CAPTCHA-like checkbox. When the checkbox is clicked, it opens a URL provided as a command-line argument. The SVG image and URL are embedded in the HTML file using base64 encoding with additional obfuscation.
+`notCAPTCHA` is a Python script that generates an HTML file with a simple CAPTCHA-like checkbox. When the checkbox is clicked, it opens a URL provided as a command-line argument. 
+The SVG image and URL are embedded in the HTML file using base64 encoding with additional obfuscation.
 
 ## Requirements
 
