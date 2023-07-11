@@ -2,6 +2,10 @@
 
 A Python script to generate a fake CAPTCHA HTML file with embedded SVG image and obfuscated URL.
 
+## Preview
+
+![notCAPTCHA Example](preview.png)
+
 ## Disclaimer
 
 **WARNING: Use this script responsibly and legally.**
